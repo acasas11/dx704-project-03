@@ -1,0 +1,17 @@
+DX704 Week 3 — Acknowledgments
+Date: 2025-09-22
+
+People / Discussions
+- None.
+
+External Libraries (beyond standard course stack)
+- None. (Only numpy, pandas, matplotlib were used, which are part of the standard stack.)
+
+Data Sources
+- None. (All data generated via the provided BanditProblem class.)
+
+Generative AI Usage
+- None
+
+Other Sources
+- DX601–DX704 example notebooks referenced as allowed.
